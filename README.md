@@ -36,23 +36,23 @@ To get information on how to install Quarto, [read the friendly manual](https://
 
 The template requires `quarto` to be executed in an environment with the following tools available (in `$PATH`):
 - [Jupyter](https://jupyter.org/) and some common Python packages:
-   * using `pip`: `pip install jupyter matplotlib pyyaml nbformat nbclient`
-   * on Debian/Ubuntu using APT: `apt-get install jupyter python3-matplotlib python3-yaml`
+   * 🐍 using `pip`: `pip install jupyter matplotlib pyyaml nbformat nbclient`
+   * 🐧 on Debian/Ubuntu using APT: `apt-get install jupyter python3-matplotlib python3-yaml`
 - [LuaTeX](https://en.wikipedia.org/wiki/LuaTeX) and several [LaTeX packages](https://ctan.org/):
-   * on Debian/Ubuntu using APT: `apt-get install texlive-luatex texlive-latex-recommended texlive-lang-polish texlive-latex-extra`
-   * on macOS using Homebrew: `brew install texlive`
-   * on Linux/macOS/Windows using Quarto: `quarto install tinytex` (optionally with the `--update-path` option to augment `$PATH`)
+   * 🐧 on Debian/Ubuntu using APT: `apt-get install texlive-luatex texlive-latex-recommended texlive-lang-polish texlive-latex-extra`
+   * 🍏 on macOS using Homebrew: `brew install texlive`
+   * 🪟 on Linux/macOS/Windows using Quarto: `quarto install tinytex` (optionally with the `--update-path` option to augment `$PATH`)
 - [Biber](https://en.wikipedia.org/wiki/Biber_(LaTeX)):
-   * on Debian/Ubuntu using APT: `apt-get install biber`
-   * on macOS using Homebrew: `brew install biber`
+   * 🐧 on Debian/Ubuntu using APT: `apt-get install biber`
+   * 🍏 on macOS using Homebrew: `brew install biber`
 - [Biblatex](https://biblatex.org/):
-   * on Debian/Ubuntu using APT: `apt-get install texlive-bibtex-extra`  
+   * 🐧 on Debian/Ubuntu using APT: `apt-get install texlive-bibtex-extra`  
 - [rsvg-convert](https://en.wikipedia.org/wiki/Librsvg):
-   * on Debian/Ubuntu using APT: `apt-get install librsvg2-bin`
-   * on macOS using Homebrew: `brew install librsvg`
-   * on Windows using Chocolatey: `choco install rsvg-convert`
+   * 🐧 on Debian/Ubuntu using APT: `apt-get install librsvg2-bin`
+   * 🍏 on macOS using Homebrew: `brew install librsvg`
+   * 🪟 on Windows using Chocolatey: `choco install rsvg-convert`
 
-The above installation steps are CI-tested on Linux, macOS and Windows with [this workflow](https://github.com/habemus-python/quarto-reproducible-thesis/blob/main/.github/workflows/test.yml).
+The above installation steps are CI-tested on 🐧 Linux, 🍏 macOS and 🪟 Windows with [this workflow](https://github.com/habemus-python/quarto-reproducible-thesis/blob/main/.github/workflows/test.yml).
 
 ## <span class="emoji">🛠️</span> Notes for contributors
 
@@ -60,6 +60,8 @@ The above installation steps are CI-tested on Linux, macOS and Windows with [thi
 - [Quarto template docs](https://quarto.org/docs/extensions/starter-templates.html#using-a-template) 
 
 ## <span class="emoji">👥</span> Credits
+
+See GitHub [Insights on project contributors](https://github.com/habemus-python/quarto-reproducible-thesis/graphs/contributors?from=2%2F7%2F2026).
 
 Title page based on [Overleaf template](https://www.overleaf.com/latex/templates/praca-dyplomowa/kbwcrcmczypy) 
   by [Krzysztof Malarz](https://home.agh.edu.pl/~malarz/).
