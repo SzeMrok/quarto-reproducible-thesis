@@ -333,3 +333,7 @@ własną
 zastąpić
 zawartość
 utf8
+wb
+Cfaerber
+Yug
+Inkscape
