@@ -338,3 +338,14 @@ wb
 Cfaerber
 Yug
 Inkscape
+SemVer
+backend
+dev5
+gabc123
+pyproject
+scm
+setuptools
+toml
+v1
+vcs
+versioneer
