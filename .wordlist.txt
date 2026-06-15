@@ -23,7 +23,8 @@ PBu
 PWa
 ROs
 RWi
-SCi
+Szymon
+Cichowski
 SMa
 WBa
 WOc
