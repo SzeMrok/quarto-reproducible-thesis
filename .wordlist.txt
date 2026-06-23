@@ -376,6 +376,7 @@ baselineskip
 dev5
 gabc123
 pyproject
+pathlib
 scm
 setuptools
 semver
