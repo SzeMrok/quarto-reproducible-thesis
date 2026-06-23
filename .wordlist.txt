@@ -97,6 +97,7 @@ MWCLS
 Malarz
 Marcin
 NIST
+Needspace
 Séamus
 Woliński
 Wymagania
@@ -371,12 +372,15 @@ Yug
 Inkscape
 SemVer
 backend
+baselineskip
 dev5
 gabc123
 pyproject
 scm
 setuptools
+semver
 toml
 v1
 vcs
 versioneer
+vspace
