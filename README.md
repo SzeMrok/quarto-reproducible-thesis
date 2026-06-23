@@ -58,7 +58,9 @@ The above installation steps are CI-tested on 🐧 Linux, 🍏 macOS and 🪟 Wi
 ## <span class="emoji">🛠️</span> Notes for contributors
 
 - [pre-commit documentation](https://pre-commit.com/#3-install-the-git-hook-scripts)
-- [Quarto template docs](https://quarto.org/docs/extensions/starter-templates.html#using-a-template) 
+- [Quarto template docs](https://quarto.org/docs/extensions/starter-templates.html#using-a-template)
+
+Handbook topics covered by contributor sections include: **versioning**, **git-metadata**, **setuptools_scm**, **automation**, and **semver**.
 
 ## <span class="emoji">👥</span> Credits
 
